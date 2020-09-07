@@ -2,6 +2,9 @@
 A converter program with GUI interface that works with multiple number systems and convert it.
 
 ## Run
+
+*To launch the program you should have installed [JRE](https://java.com/ru/download/) on your computer. Please install it if there are no exists.*
+
 Clone repository to your computer and run in project folder command:
 ```
 $ java -jar out/artifacts/Converter_jar/Converter.jar
